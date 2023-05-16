@@ -1,4 +1,4 @@
-# first project
+# first project to github
 #PythonGeeks program to generate a random password
 #Import the necessary modules
 import random
